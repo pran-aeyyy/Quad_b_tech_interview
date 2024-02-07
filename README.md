@@ -1,4 +1,5 @@
 # Quad_b_tech_interview
+#Pranay Gupta
 
 1. use std::io;
 
